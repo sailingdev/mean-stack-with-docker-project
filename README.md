@@ -18,7 +18,7 @@ MEAN is a set of Open Source components that together, provide an end-to-end fra
 ### Installation
 
 ```
-git clone https://github.com/itundret/mean-stack-with-docker-project
+git clone https://github.com/sailing-dev/mean-stack-with-docker-project
 cd mean
 cp .env.example .env
 yarn
@@ -30,7 +30,7 @@ yarn start (for development)
 > ⚠️ Make sure your Docker version is 19.03.0+.
 
 ```
-git clone https://github.com/itundret/mean-stack-with-docker-project
+git clone https://github.com/sailing-dev/mean-stack-with-docker-project
 cd mean
 cp .env.example .env
 docker-compose up -d
